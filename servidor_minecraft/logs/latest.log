@@ -1,45 +1,33 @@
-[04:31:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:31:23] [ServerMain/INFO]: Loaded 1290 recipes
-[04:31:23] [ServerMain/INFO]: Loaded 1399 advancements
-[04:31:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[04:31:24] [Server thread/INFO]: Loading properties
-[04:31:24] [Server thread/INFO]: Default game type: SURVIVAL
-[04:31:24] [Server thread/INFO]: Generating keypair
-[04:31:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:31:24] [Server thread/INFO]: Using epoll channel type
-[04:31:24] [Server thread/INFO]: Preparing level "world"
-[04:31:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:31:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:31:28] [Worker-Main-3/INFO]: Preparing spawn area: 22%
-[04:31:28] [Server thread/INFO]: Time elapsed: 820 ms
-[04:31:28] [Server thread/INFO]: Done (4.086s)! For help, type "help"
-[04:31:34] [User Authenticator #1/INFO]: UUID of player FewMood is 933c8493-980c-49cb-8620-1e34830cf569
-[04:31:36] [Server thread/INFO]: FewMood[/127.15.205.132:35623] logged in with entity id 15 at (-717.6426301815678, 51.86281810443508, -1970.6928709016383)
-[04:31:36] [Server thread/INFO]: FewMood joined the game
-[04:32:14] [Server thread/INFO]: FewMood has made the advancement [Hot Stuff]
-[04:36:06] [Server thread/INFO]: FewMood lost connection: Timed out
-[04:36:06] [Server thread/INFO]: FewMood left the game
-[04:36:06] [Server thread/WARN]: handleDisconnection() called twice
-[04:36:07] [User Authenticator #2/INFO]: UUID of player FewMood is 933c8493-980c-49cb-8620-1e34830cf569
-[04:36:14] [Server thread/INFO]: FewMood[/127.15.205.132:37695] logged in with entity id 714 at (-707.7155485298749, 70.14775828783085, -1959.0962804296253)
-[04:36:14] [Server thread/INFO]: FewMood joined the game
-[04:36:44] [Server thread/INFO]: FewMood lost connection: Timed out
-[04:36:44] [Server thread/INFO]: FewMood left the game
-[04:37:38] [User Authenticator #3/INFO]: UUID of player FewMood is 933c8493-980c-49cb-8620-1e34830cf569
-[04:37:43] [Server thread/INFO]: FewMood[/127.15.205.132:33819] logged in with entity id 947 at (-707.7155485298749, 70.14775828783085, -1959.0962804296253)
-[04:37:43] [Server thread/INFO]: FewMood joined the game
-[04:38:41] [Server thread/INFO]: [FewMood: Successfully filled 131 block(s)]
-[04:39:30] [Server thread/WARN]: FewMood moved too quickly! -2.5837225157961257,0.0,9.985387675117181
-[04:39:40] [Server thread/INFO]: [FewMood: Successfully filled 131 block(s)]
-[04:41:31] [Server thread/INFO]: [FewMood: Successfully filled 23 block(s)]
-[04:41:41] [Server thread/INFO]: [FewMood: Successfully filled 23 block(s)]
-[04:41:44] [Server thread/INFO]: [FewMood: Successfully filled 23 block(s)]
-[04:42:27] [Server thread/INFO]: [FewMood: Successfully filled 131 block(s)]
-[04:42:52] [Server thread/INFO]: [FewMood: Successfully filled 22 block(s)]
-[04:43:21] [Server thread/INFO]: [FewMood: Successfully filled 138 block(s)]
-[04:43:28] [Server thread/INFO]: [FewMood: Successfully filled 138 block(s)]
-[04:44:04] [Server thread/INFO]: [FewMood: Successfully filled 138 block(s)]
-[04:44:08] [Server thread/INFO]: [FewMood: Successfully filled 138 block(s)]
-[04:44:56] [Server thread/INFO]: [FewMood: Successfully filled 131 block(s)]
-[04:45:57] [Server thread/INFO]: [FewMood: Successfully filled 131 block(s)]
-[04:46:41] [Server thread/INFO]: [FewMood: Successfully filled 131 block(s)]
+[05:02:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:02:29] [ServerMain/INFO]: Loaded 1290 recipes
+[05:02:30] [ServerMain/INFO]: Loaded 1399 advancements
+[05:02:30] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[05:02:30] [Server thread/INFO]: Loading properties
+[05:02:30] [Server thread/INFO]: Default game type: SURVIVAL
+[05:02:30] [Server thread/INFO]: Generating keypair
+[05:02:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:02:31] [Server thread/INFO]: Using epoll channel type
+[05:02:31] [Server thread/INFO]: Preparing level "world"
+[05:02:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:02:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:02:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:02:35] [Server thread/INFO]: Time elapsed: 786 ms
+[05:02:35] [Server thread/INFO]: Done (4.039s)! For help, type "help"
+[05:02:40] [User Authenticator #1/INFO]: UUID of player FewMood is 933c8493-980c-49cb-8620-1e34830cf569
+[05:02:41] [Server thread/INFO]: FewMood[/127.15.205.132:38631] logged in with entity id 15 at (-700.630017032245, 73.62530253314092, -1962.1941393906573)
+[05:02:41] [Server thread/INFO]: FewMood joined the game
+[05:02:53] [Server thread/INFO]: FewMood has made the advancement [Acquire Hardware]
+[05:02:55] [Server thread/INFO]: FewMood has made the advancement [Diamonds!]
+[05:03:03] [Server thread/INFO]: FewMood has made the advancement [Isn't It Iron Pick]
+[05:03:08] [Server thread/INFO]: FewMood has made the advancement [Suit Up]
+[05:03:10] [Server thread/INFO]: FewMood has made the advancement [Cover Me with Diamonds]
+[05:04:23] [Server thread/INFO]: Villager cmk['Nitwit'/48, l='ServerLevel[world]', x=-758.66, y=67.00, z=-2001.60] died, message: 'Nitwit was slain by FewMood'
+[05:09:46] [Server thread/INFO]: [FewMood: Made Qhapela no longer a server operator]
+[05:10:48] [Server thread/INFO]: FewMood lost connection: Disconnected
+[05:10:48] [Server thread/INFO]: FewMood left the game
+[05:10:50] [User Authenticator #2/INFO]: UUID of player FewMood is 933c8493-980c-49cb-8620-1e34830cf569
+[05:10:51] [Server thread/INFO]: FewMood[/127.15.205.132:48519] logged in with entity id 1438 at (-757.73104562839, 67.0, -2005.5369236043236)
+[05:10:51] [Server thread/INFO]: FewMood joined the game
+[05:10:54] [Server thread/INFO]: [FewMood: Set own game mode to Survival Mode]
+[05:11:01] [Server thread/INFO]: FewMood lost connection: Disconnected
+[05:11:01] [Server thread/INFO]: FewMood left the game
