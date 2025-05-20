@@ -1,23 +1,30 @@
-[14:35:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:35:25] [ServerMain/INFO]: Loaded 1290 recipes
-[14:35:25] [ServerMain/INFO]: Loaded 1399 advancements
-[14:35:26] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[14:35:26] [Server thread/INFO]: Loading properties
-[14:35:26] [Server thread/INFO]: Default game type: SURVIVAL
-[14:35:26] [Server thread/INFO]: Generating keypair
-[14:35:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:35:26] [Server thread/INFO]: Using epoll channel type
-[14:35:26] [Server thread/INFO]: Preparing level "world"
-[14:35:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:35:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:35:31] [Server thread/INFO]: Time elapsed: 546 ms
-[14:35:31] [Server thread/INFO]: Done (5.363s)! For help, type "help"
-[14:35:38] [User Authenticator #1/INFO]: UUID of player FewMood is 933c8493-980c-49cb-8620-1e34830cf569
-[14:35:40] [Server thread/INFO]: FewMood[/127.15.205.132:35669] logged in with entity id 15 at (-670.264717081949, 78.9375, -2027.0537390306547)
-[14:35:40] [Server thread/INFO]: FewMood joined the game
-[14:37:25] [Server thread/INFO]: FewMood has made the advancement [A Seedy Place]
-[14:37:56] [Server thread/WARN]: Failed to update secure chat state for FewMood: 'Chat disabled due to missing profile public key. Please try reconnecting.'
-[14:37:56] [Server thread/INFO]: <FewMood> fabricio
-[14:37:59] [Server thread/INFO]: <FewMood> federico
-[14:38:23] [Server thread/INFO]: <FewMood> alberto
-[14:38:27] [Server thread/INFO]: <FewMood> pedro
+[16:06:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:06:35] [ServerMain/INFO]: Loaded 1290 recipes
+[16:06:35] [ServerMain/INFO]: Loaded 1399 advancements
+[16:06:36] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:06:36] [Server thread/INFO]: Loading properties
+[16:06:36] [Server thread/INFO]: Default game type: SURVIVAL
+[16:06:36] [Server thread/INFO]: Generating keypair
+[16:06:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:06:36] [Server thread/INFO]: Using epoll channel type
+[16:06:36] [Server thread/INFO]: Preparing level "world"
+[16:06:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:06:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:39] [Server thread/INFO]: Time elapsed: 462 ms
+[16:06:39] [Server thread/INFO]: Done (2.930s)! For help, type "help"
+[16:07:02] [User Authenticator #1/INFO]: UUID of player FewMood is 933c8493-980c-49cb-8620-1e34830cf569
+[16:07:04] [Server thread/INFO]: FewMood[/127.15.205.132:60517] logged in with entity id 6 at (-671.7094352040389, 93.22259434849147, -2026.0630584634573)
+[16:07:04] [Server thread/INFO]: FewMood joined the game
+[16:09:25] [Server thread/INFO]: [FewMood: Stopping the server]
+[16:09:25] [Server thread/INFO]: Stopping server
+[16:09:25] [Server thread/INFO]: Saving players
+[16:09:25] [Server thread/INFO]: FewMood lost connection: Server closed
+[16:09:25] [Server thread/INFO]: FewMood left the game
+[16:09:25] [Server thread/INFO]: Saving worlds
+[16:09:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:09:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:09:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
