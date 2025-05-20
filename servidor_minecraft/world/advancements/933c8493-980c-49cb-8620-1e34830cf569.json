@@ -1007,5 +1007,41 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-20 14:10:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-20 14:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-20 14:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-20 14:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-20 14:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-20 14:10:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
