@@ -1,5 +1,5 @@
-[06:25:23] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[06:25:24] [main/INFO]: Loading 46 mods:
+[18:35:17] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[18:35:18] [main/INFO]: Loading 46 mods:
 	- balm 21.0.41
 	   \-- kuma_api 21.0.5
 	- fabric-api 0.116.0+1.21.1
@@ -58,64 +58,43 @@
 	- minecraft 1.21.1
 	- waystones 21.1.18
 	- worldedit 7.3.8+6939-7d32b45
-[06:25:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servidor/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[06:25:24] [main/INFO]: Compatibility level set to JAVA_17
-[06:25:24] [main/INFO]: Compatibility level set to JAVA_21
-[06:25:24] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[06:25:32] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7b03e61d]
-[06:25:32] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
-[06:25:32] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:25:34] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[06:25:34] [main/INFO]: Loaded 1337 recipes
-[06:25:34] [main/INFO]: Loaded 1446 advancements
-[06:25:35] [main/INFO]: Applied 66 biome modifications to 63 of 64 new biomes in 9.773 ms
-[06:25:35] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[06:25:35] [Server thread/INFO]: Loading properties
-[06:25:35] [Server thread/INFO]: Default game type: SURVIVAL
-[06:25:35] [Server thread/INFO]: Generating keypair
-[06:25:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:25:35] [Server thread/INFO]: Using epoll channel type
-[06:25:35] [Server thread/INFO]: Preparing level "world"
-[06:25:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:25:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[06:25:38] [Server thread/INFO]: Time elapsed: 583 ms
-[06:25:38] [Server thread/INFO]: Done (3.189s)! For help, type "help"
-[06:27:21] [User Authenticator #1/INFO]: UUID of player FewMood is 933c8493-980c-49cb-8620-1e34830cf569
-[06:27:24] [Server thread/INFO]: FewMood[/127.236.202.133:35805] logged in with entity id 10 at (50.8493824737184, 81.0, 574.0645455793681)
-[06:27:24] [Server thread/INFO]: FewMood joined the game
-[06:56:15] [Server thread/INFO]: Villager class_1646['Villager'/5871, l='ServerLevel[world]', x=37.84, y=93.00, z=646.70] died, message: 'Villager hit the ground too hard while trying to escape FewMood'
-[07:13:40] [Server thread/INFO]: FewMood has made the advancement [Hot Stuff]
-[07:14:43] [Server thread/INFO]: Villager class_1646['Villager'/36, l='ServerLevel[world]', x=102.62, y=71.00, z=597.89] died, message: 'Villager was slain by Zombie'
-[07:25:13] [Server thread/INFO]: Named entity class_1642['Fabricio'/13444, l='ServerLevel[world]', x=36.31, y=90.00, z=635.42] died: Fabricio was slain by FewMood
-[07:37:28] [Server thread/INFO]: FewMood lost connection: Disconnected
-[07:37:28] [Server thread/INFO]: FewMood left the game
-[07:40:50] [User Authenticator #2/INFO]: UUID of player FewMood is 933c8493-980c-49cb-8620-1e34830cf569
-[07:40:54] [Server thread/INFO]: FewMood[/127.236.202.133:50393] logged in with entity id 17267 at (47.37527350487748, 91.72313136684579, 632.2771816058605)
-[07:40:54] [Server thread/INFO]: FewMood joined the game
-[07:43:38] [Server thread/INFO]: FewMood has made the advancement [Glow and Behold!]
-[07:47:27] [Server thread/INFO]: FewMood has made the advancement [Crafting a New Look]
-[07:49:43] [Server thread/INFO]: Locating element minecraft:stronghold took 19 ms
-[07:50:48] [Server thread/INFO]: [FewMood: Set own game mode to Survival Mode]
-[07:50:59] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
-[08:00:43] [Server thread/INFO]: [FewMood: Set own game mode to Survival Mode]
-[08:01:02] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
-[08:01:09] [Server thread/INFO]: [FewMood: Set own game mode to Survival Mode]
-[08:01:39] [Server thread/INFO]: [FewMood: Gave 100 experience levels to FewMood]
-[08:01:59] [Server thread/INFO]: FewMood has made the advancement [Enchanter]
-[08:06:31] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
-[08:07:27] [Server thread/INFO]: [FewMood: Set own game mode to Survival Mode]
-[08:07:29] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
-[08:07:34] [Server thread/INFO]: [FewMood: Set own game mode to Survival Mode]
-[08:08:09] [Server thread/INFO]: FewMood lost connection: Disconnected
-[08:08:09] [Server thread/INFO]: FewMood left the game
-[08:09:05] [Server thread/INFO]: Stopping the server
-[08:09:05] [Server thread/INFO]: Stopping server
-[08:09:05] [Server thread/INFO]: Saving players
-[08:09:05] [Server thread/INFO]: Saving worlds
-[08:09:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:09:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08:09:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:35:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servidor/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:35:19] [main/INFO]: Compatibility level set to JAVA_17
+[18:35:19] [main/INFO]: Compatibility level set to JAVA_21
+[18:35:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:35:31] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3e7628bc]
+[18:35:31] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
+[18:35:31] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:35:34] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[18:35:34] [main/INFO]: Loaded 1337 recipes
+[18:35:35] [main/INFO]: Loaded 1446 advancements
+[18:35:35] [main/INFO]: Applied 66 biome modifications to 63 of 64 new biomes in 13.61 ms
+[18:35:35] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:35:35] [Server thread/INFO]: Loading properties
+[18:35:35] [Server thread/INFO]: Default game type: SURVIVAL
+[18:35:35] [Server thread/INFO]: Generating keypair
+[18:35:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:35:36] [Server thread/INFO]: Using epoll channel type
+[18:35:36] [Server thread/INFO]: Preparing level "world"
+[18:35:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[18:35:42] [Server thread/INFO]: Time elapsed: 629 ms
+[18:35:42] [Server thread/INFO]: Done (5.760s)! For help, type "help"
+[18:35:59] [User Authenticator #1/INFO]: UUID of player Qhapela is 5f0db4a5-0f8f-4b29-a458-79f770493c41
+[18:36:03] [Server thread/INFO]: Qhapela[/127.124.87.252:45859] logged in with entity id 10 at (-310.25449247926855, 63.0, 677.3344330647024)
+[18:36:03] [Server thread/INFO]: Qhapela joined the game
+[18:36:04] [User Authenticator #2/INFO]: UUID of player FewMood is 933c8493-980c-49cb-8620-1e34830cf569
+[18:36:08] [Server thread/INFO]: FewMood[/127.236.202.133:36303] logged in with entity id 376 at (34.34255903527471, 90.875, 629.744548182628)
+[18:36:08] [Server thread/INFO]: FewMood joined the game
+[18:38:19] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
+[18:42:38] [Server thread/INFO]: [FewMood: Set own game mode to Survival Mode]
+[18:44:19] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
+[18:44:20] [Server thread/INFO]: [FewMood: Set own game mode to Survival Mode]
+[18:45:36] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
+[18:45:37] [Server thread/INFO]: [FewMood: Set own game mode to Survival Mode]
+[18:46:38] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
+[18:48:48] [Server thread/INFO]: [FewMood: Set own game mode to Survival Mode]
+[18:49:09] [Server thread/INFO]: Qhapela has made the advancement [Sweet Dreams]
+[18:50:55] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
+[18:59:41] [Server thread/INFO]: Qhapela has made the advancement [Not Today, Thank You]
