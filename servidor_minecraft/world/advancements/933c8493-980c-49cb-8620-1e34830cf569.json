@@ -9,9 +9,11 @@
     "criteria": {
       "minecraft:beach": "2025-05-21 04:45:30 +0000",
       "minecraft:forest": "2025-05-21 04:51:44 +0000",
+      "minecraft:sparse_jungle": "2025-05-21 21:44:46 +0000",
       "minecraft:ocean": "2025-05-21 04:52:14 +0000",
       "minecraft:sunflower_plains": "2025-05-21 05:20:18 +0000",
       "minecraft:river": "2025-05-21 04:45:50 +0000",
+      "minecraft:lush_caves": "2025-05-21 21:46:08 +0000",
       "minecraft:plains": "2025-05-21 04:44:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-21 06:04:09 +0000"
     },
@@ -2021,15 +2023,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-21 19:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-05-21 20:00:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_dandelion": "2025-05-21 19:26:41 +0000"
+      "has_bow": "2025-05-21 21:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-21 21:46:11 +0000"
     },
     "done": true
   },
