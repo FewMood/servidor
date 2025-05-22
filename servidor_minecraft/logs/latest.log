@@ -83,3 +83,12 @@
 [00:51:57] [User Authenticator #1/INFO]: UUID of player FewMood is 933c8493-980c-49cb-8620-1e34830cf569
 [00:52:03] [Server thread/INFO]: FewMood[/127.236.202.133:59381] logged in with entity id 10 at (514.0447787415728, -24.922329855333963, -1468.0023596913682)
 [00:52:03] [Server thread/INFO]: FewMood joined the game
+[01:03:08] [Server thread/INFO]: [FewMood: Set own game mode to Survival Mode]
+[01:03:10] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
+[01:03:12] [Server thread/INFO]: [FewMood: Set own game mode to Spectator Mode]
+[01:03:19] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
+[01:03:34] [Server thread/INFO]: [FewMood: Set own game mode to Spectator Mode]
+[01:03:40] [Server thread/WARN]: FewMood moved too quickly! 2.116226438741137,-1.382630619763182,9.911067907017468
+[01:03:44] [Server thread/INFO]: FewMood has made the advancement [Minecraft: Trial(s) Edition]
+[01:03:46] [Server thread/WARN]: FewMood moved too quickly! 0.0,10.783088374021467,0.0
+[01:03:54] [Server thread/INFO]: [FewMood: Set own game mode to Creative Mode]
